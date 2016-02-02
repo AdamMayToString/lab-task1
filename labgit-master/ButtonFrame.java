@@ -4,6 +4,7 @@ import java.awt.*;
 import java.awt.event.*;
 
 //HI
+main=broken
 class ButtonListener implements ActionListener
 {
 	int count = 0;
